@@ -1,0 +1,25 @@
+<annotation>
+	<folder>image</folder>
+	<filename>mask-114.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3820</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>1007</ymin>
+			<xmax>2616</xmax>
+			<ymax>2864</ymax>
+		</bndbox>
+	</object>
+</annotation>

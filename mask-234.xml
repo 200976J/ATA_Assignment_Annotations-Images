@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>mask-234.jpg</filename>
+	<path>C:\Users\kuick\OneDrive\Desktop\Yr 3\ATA\mask_project\data\images\mask-234.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2305</xmin>
+			<ymin>884</ymin>
+			<xmax>5091</xmax>
+			<ymax>4000</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2823</xmin>
+			<ymin>1606</ymin>
+			<xmax>3550</xmax>
+			<ymax>2184</ymax>
+		</bndbox>
+	</object>
+</annotation>

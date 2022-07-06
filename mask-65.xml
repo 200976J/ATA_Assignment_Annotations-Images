@@ -1,0 +1,37 @@
+<annotation>
+	<folder>image</folder>
+	<filename>mask-65.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6240</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>4160</ymin>
+			<xmax>2408</xmax>
+			<ymax>4160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1134</xmin>
+			<ymin>2939</ymin>
+			<xmax>4300</xmax>
+			<ymax>3843</ymax>
+		</bndbox>
+	</object>
+</annotation>
